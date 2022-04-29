@@ -11,5 +11,18 @@
 	<classpathentry kind="src" path="ProblemStatement3"/>
 	<classpathentry kind="src" path="ProblemStatement4"/>
 	<classpathentry kind="src" path="ProblemStatement5"/>
+	<classpathentry kind="src" path="ProblemStatement6"/>
+	<classpathentry kind="src" path="ProblemStatement7"/>
+	<classpathentry kind="src" path="ProblemStatement8"/>
+	<classpathentry kind="src" path="ProblemStatement9"/>
+	<classpathentry kind="src" path="ProblemStatement10"/>
+	<classpathentry kind="src" path="ProblemStatement11"/>
+	<classpathentry kind="src" path="ProblemStatement12"/>
+	<classpathentry kind="src" path="ProblemStatement13"/>
+	<classpathentry kind="src" path="ProblemStatement14"/>
+	<classpathentry kind="src" path="ProblemStatement15"/>
+	<classpathentry kind="src" path="ProblemStatement16"/>
+	<classpathentry kind="src" path="ProblemSttatement17"/>
+	<classpathentry kind="src" path="ProblemStatement18"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
